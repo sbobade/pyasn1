@@ -2,7 +2,8 @@
 Revision 0.4.6, released XX-01-2019
 -----------------------------------
 
-No changes yet
+- Fixed `AnyDecoder` to accept possible `TagMap` as `asn1Spec`
+  to make dumping raw value operational
 
 Revision 0.4.5, released 29-12-2018
 -----------------------------------
